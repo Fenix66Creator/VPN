@@ -12,7 +12,8 @@ What is the task of this CTP_DEVS?
 3. Processing time and quality of service.
 4. Cover all networks in the OSI model. 5. Control the origin, quality, type, and integrity of all information.
 ***
-Why use CTP_DEVS? 1. Regulate the use of broadcast space in the air, water, or ground (surface and deep)
+Why use CTP_DEVS? 
+1. Regulate the use of broadcast space in the air, water, or ground (surface and deep)
 2. Avoid collisions between information packets
 3. Avoid noise, signal distortion, and lip synchronization between voice and image
 4. Facilitate the role of routers in the concentration and correct encapsulation of information
